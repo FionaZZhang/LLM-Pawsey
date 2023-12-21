@@ -1,0 +1,7 @@
+torch
+ctransformers
+transformers
+llama-cpp-python==0.1.78
+numpy==1.23.4
+huggingface_hub
+llama-cpp-python==0.1.78
