@@ -1,0 +1,11 @@
+torch
+streamlit
+torch
+pinecone
+langchain
+transformers
+peft
+bitsandbytes
+accelerate
+pinecone-client
+sentence_transformers
